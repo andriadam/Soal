@@ -1,0 +1,15 @@
+C:\Users\adam\Downloads\Test-GDPS\Soal\bin\Debug\net7.0\Soal.exe
+C:\Users\adam\Downloads\Test-GDPS\Soal\bin\Debug\net7.0\Soal.deps.json
+C:\Users\adam\Downloads\Test-GDPS\Soal\bin\Debug\net7.0\Soal.runtimeconfig.json
+C:\Users\adam\Downloads\Test-GDPS\Soal\bin\Debug\net7.0\Soal.dll
+C:\Users\adam\Downloads\Test-GDPS\Soal\bin\Debug\net7.0\Soal.pdb
+C:\Users\adam\Downloads\Test-GDPS\Soal\obj\Debug\net7.0\Soal.csproj.AssemblyReference.cache
+C:\Users\adam\Downloads\Test-GDPS\Soal\obj\Debug\net7.0\Soal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam\Downloads\Test-GDPS\Soal\obj\Debug\net7.0\Soal.AssemblyInfoInputs.cache
+C:\Users\adam\Downloads\Test-GDPS\Soal\obj\Debug\net7.0\Soal.AssemblyInfo.cs
+C:\Users\adam\Downloads\Test-GDPS\Soal\obj\Debug\net7.0\Soal.csproj.CoreCompileInputs.cache
+C:\Users\adam\Downloads\Test-GDPS\Soal\obj\Debug\net7.0\Soal.dll
+C:\Users\adam\Downloads\Test-GDPS\Soal\obj\Debug\net7.0\refint\Soal.dll
+C:\Users\adam\Downloads\Test-GDPS\Soal\obj\Debug\net7.0\Soal.pdb
+C:\Users\adam\Downloads\Test-GDPS\Soal\obj\Debug\net7.0\Soal.genruntimeconfig.cache
+C:\Users\adam\Downloads\Test-GDPS\Soal\obj\Debug\net7.0\ref\Soal.dll
